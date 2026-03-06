@@ -167,6 +167,11 @@ h1 {
     z-index: 5;
 }
 
+.vector-33{
+    display: none;
+}
+
+
 .star-2 {
     width: 57px;
     height: 57px;
@@ -588,6 +593,7 @@ h1 {
         object-fit: contain;
         pointer-events: none;
         z-index: 1;
+       
     }
 
     .star-2 {
