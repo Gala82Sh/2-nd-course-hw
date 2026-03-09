@@ -13,7 +13,6 @@ html, body {
     overflow-x: hidden;
 }
 
-/* Центрирующие классы */
 .hero-center,
 .games-center {
     max-width: 1440px;
@@ -236,6 +235,7 @@ h1 {
 .games-center {
     min-height: 1470px;
     position: relative;
+
 }
 
 .games-container {
@@ -497,6 +497,7 @@ h1 {
     pointer-events: none;
     z-index: 5;
 }
+
 .vector-33 {
     display: none;
 }
@@ -527,6 +528,7 @@ h1 {
     min-height: 371px;
     z-index: 10;
     }
+
 
     .text-block {
         width: 296px;
@@ -689,10 +691,11 @@ h1 {
         object-fit: contain;
     }
 
+
     .games-section {
         width: 100%;
         min-height: auto;
-        padding: 40px 0;
+    padding: 40px 0;
         position: relative;
         overflow: hidden;
     }
@@ -805,6 +808,7 @@ h1 {
         display: none;
     }
 
+
     .vector-33 {
         height: auto;
         left: auto;
@@ -812,3 +816,4 @@ h1 {
     }
 }
  
+
